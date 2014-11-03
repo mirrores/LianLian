@@ -1,0 +1,15 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     android:background="@drawable/background"
+     android:orientation="vertical"
+    tools:context=".LLKActivity" >
+
+   <com.example.lianlian.CrtlView
+	    android:id="@+id/cv"
+	    android:layout_width="match_parent"
+	    android:layout_height="340sp"
+	    />
+
+</LinearLayout>
